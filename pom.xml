@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.jain</groupId>
 	<artifactId>jain-apps</artifactId>
-	<version>1.1.8</version>
+	<version>1.1.9</version>
 	<packaging>war</packaging>
 	<name>Jain Apps</name>
 	<description>Jain Applications demo</description>
@@ -203,7 +203,7 @@
 
 	<properties>
 		<version.java.app>1.6</version.java.app>
-		<vaadin.version>7.3.7</vaadin.version>
+		<vaadin.version>7.5.4</vaadin.version>
 		<com.vishudha.deployment.directory>${com.vishudha.jboss.home}/standalone/deployments</com.vishudha.deployment.directory>
 		<com.vishudha.jboss.home>/home/ljain/DevEnvironment/I18N/jboss-as-7.0.2</com.vishudha.jboss.home>
 	</properties>
